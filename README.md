@@ -24,23 +24,15 @@ Dark Channel Prior method, an effective  single image dehazing approach.
 # Potential Applications
 
 ### 1. Computer Vision
-```
 * Object detection and recognition in hazy scenes.
 * Improved performance in image segmentation and tracking.
 * Enhanced visual surveillance and monitoring systems.
-```
 ### 2. Remote Sensing
-```
 * Satellite image dehazing for better land cover classification and environmental monitoring.
 * Aerial image dehazing for urban planning and traffic monitoring.
-```
 ### 3. Autonomous Vehicles
-```
 * Improved visibility and safety in adverse weather conditions.
 * Enhanced object detection and obstacle avoidance.
-```
 ### 4. Other applications
-```
 * Medical imaging for better diagnosis and image-guided therapies.
 * Underwater image enhancement for improved underwater exploration and marine life studies.
-```
